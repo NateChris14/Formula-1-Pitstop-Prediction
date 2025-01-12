@@ -1,7 +1,7 @@
 # Pitstop Prediction Project
 
 ## Overview
-The Pitstop Prediction Project is a machine learning-based solution designed to predict pitstop strategies in Formula 1 races. Using historical race data, the model predicts the number of stops a driver should make during the race, helping teams make data-driven decisions during races.
+The Pitstop Prediction Project is a machine learning-based solution designed to predict pitstop strategies in Formula 1 races. Using historical race data, the model predicts the number of stops a driver should make during the race, helping teams make data-driven decisions during races. This model was evaluated on weighted precision score during which it achieved a score of nearly 70% on the test data which means that 7 out of 10 times the model correctly predicts the number of stops that should be made, solely based on historical data.
 
 ## Features
 - Multiclass classification to predict optimal pitstop strategies.
