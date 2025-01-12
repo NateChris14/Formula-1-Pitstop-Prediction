@@ -8,8 +8,9 @@ The Pitstop Prediction Project is a machine learning-based solution designed to 
 - Uses SMOTE for handling class imbalance in training data.
 
 ## Dataset
-This project utilizes the Ergast Developer API for Formula 1 data:
-Ergast F1 API.
+This project utilizes the Ergast Developer API for Formula 1 data:  
+[Ergast F1 API](https://api.jolpi.ca/ergast/f1/)
+
 The project utilizes Formula 1 race data, including:
 - **Laps Data:** Information on lap times, tire usage, and positions.
 - **Weather Data:** Conditions like track temperature, rain levels, and humidity.
